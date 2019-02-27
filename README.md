@@ -122,6 +122,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Tecnología, talento y metodología para reinventar el futuro digital de las grandes compañías
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [TangramBPM SL](https://tangrambpm.es/)
+
+* Parque Tecnológico Rabanales 21, 14014 Córdoba - +34 957 964 723 - info@tangrambpm.es
+* [GitHub](https://github.com/tangrambpm)
+* [Twitter](https://twitter.com/tangrambpm)
+* [Localización](https://www.openstreetmap.org/#map=19/37.90763/-4.73004)
+* Empresa centrada en soluciones de Tramitación Electrónica, Administración Electrónica en general y Business Process Management (principalmente sector público). Sedes en Madrid, Córdoba y Minglanilla (Cuenca).
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Transparent CDN](https://www.transparentcdn.com/)
 
 * Calle Miguel Yuste 12, 2ª Planta. 28043 Madrid - info@transparentcdn.com
